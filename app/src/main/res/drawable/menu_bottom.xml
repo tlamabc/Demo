@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/icon_home"
+        android:title="Home"/>
+
+    <item
+        android:icon="@drawable/icon_article"
+        android:title="Article" />
+
+    <item
+        android:icon="@drawable/icon_friend"
+        android:title="Friend" />
+    <item
+        android:icon="@drawable/icon_messenger"
+        android:title="Messenger" />
+
+    <item
+        android:icon="@drawable/icon_setting"
+        android:title="Setting" />
+</menu>
